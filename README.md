@@ -1,4 +1,4 @@
-# DSProjects_Real_life ⚡️⚡️⚡️
+# DataScience Projects in Real life ⚡️⚡️⚡️
 
 
 # Machine Learning
