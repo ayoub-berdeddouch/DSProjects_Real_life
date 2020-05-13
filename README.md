@@ -21,7 +21,10 @@
 ### [LINK](https://github.com/ayoub-berdeddouch/DSProjects_Real_life/blob/master/Spam_Ham_Classification.ipynb)
 
 
-# Computer Vision
+# Computer Vision 💻🧿 
+
+## Facial Expression Recognition 
+### [LINK](https://github.com/ayoub-berdeddouch/DSProjects_Real_life/tree/master/FacialExpression_Recognition_RealTime)
 
 ## Decipher sign language with TensorFlow
 ### [LINK](https://github.com/ayoub-berdeddouch/DSProjects_Real_life/)
@@ -43,6 +46,7 @@
 
 🔥 PyTorch
 
+⚗️ Flask
 # Algorithms
 
 🧮 Linear Algebra	
