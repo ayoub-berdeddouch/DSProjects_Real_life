@@ -25,7 +25,7 @@ opencv-python-headless == 4.4.0.44
 
 # model.py: 4,5,8
 # utils\datasets\fer.py: 2
-tensorflow == 2.0.0a0
+tensorflow == 2.5.0rc0
 
 # utils\__init__.py: 2
 utils == 1.0.1
