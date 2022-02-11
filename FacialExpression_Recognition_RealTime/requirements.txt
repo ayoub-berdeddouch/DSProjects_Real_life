@@ -6,7 +6,7 @@ Flask == 1.0.3
 
 # camera.py: 6
 # model.py: 6
-numpy == 1.18.3
+numpy == 1.21.0
 
 # camera.py: 4
 opencv-contrib-python == 4.4.0.44
